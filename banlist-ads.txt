@@ -1,1 +1,1 @@
-(\.|^)softgarden\.de$
+||softgarden.de^
